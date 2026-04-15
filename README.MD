@@ -88,3 +88,4 @@ Perusahaan kecil dan menengah sering menandatangani kontrak (sewa, vendor, karya
 **Tech stack:** Python, FastAPI, Qdrant, sentence-transformers, Llama 3 (via Groq/Together), React (frontend ringan).
 **Kompleksitas:** Medium-Hard (karena perlu legal domain knowledge)
 **Role:** AI Engineer (2), Backend (1), Frontend (1), Legal Consultant (part-time untuk label data)
+# identitas
